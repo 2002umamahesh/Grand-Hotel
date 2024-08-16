@@ -65,10 +65,12 @@ The website is composed of the following main sections in the HTML files:<br>
 
 **ABOUT**
 
-![Screenshot 2024-08-16 200516](https://github.com/user-attachments/assets/cc0cd45a-fa96-4a47-8733-f52af9ac9d9a)
+![Screenshot 2024-08-16 200516](https://github.com/user-attachments/assets/11dd3962-e6d2-4dc6-b083-3ccbcf552e2f)
+
 
 **ROOMS**
 
+![Screenshot 2024-08-16 200530](https://github.com/user-attachments/assets/ae4701d0-a77d-4949-878e-19997ec61b90)
 
 
 
@@ -77,7 +79,6 @@ The website is composed of the following main sections in the HTML files:<br>
 
 **CUSTOMERS**
 
-![Screenshot 2024-08-16 200558](https://github.com/user-attachments/assets/79d13ddc-1419-4b48-bb7d-998f1c5d1a1c)
 
 ![Screenshot 2024-08-16 200558](https://github.com/user-attachments/assets/1e283e85-d5fd-4912-9ecd-b5e21fe214b7)
 
