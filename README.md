@@ -68,7 +68,9 @@ The website is composed of the following main sections in the HTML files:<br>
 ![Screenshot 2024-08-16 200516](https://github.com/user-attachments/assets/cc0cd45a-fa96-4a47-8733-f52af9ac9d9a)
 
 **ROOMS**
-![Screenshot 2024-08-16 200530](https://github.com/user-attachments/assets/d9aa88fc-b0cb-4fe4-8775-3f6ace70d358)
+
+![Screenshot 2024-08-16 200516](https://github.com/user-attachments/assets/979a19eb-e2b5-4a1d-8a22-c4a8f9bada9e)
+
 
 ![Screenshot 2024-08-16 200539](https://github.com/user-attachments/assets/f98be046-3b27-4968-be37-6abc4261bbc5)
 
@@ -78,6 +80,9 @@ The website is composed of the following main sections in the HTML files:<br>
 ![Screenshot 2024-08-16 200558](https://github.com/user-attachments/assets/79d13ddc-1419-4b48-bb7d-998f1c5d1a1c)
 
 ![Screenshot 2024-08-16 200558](https://github.com/user-attachments/assets/1e283e85-d5fd-4912-9ecd-b5e21fe214b7)
+
+![Screenshot 2024-08-16 200605](https://github.com/user-attachments/assets/1e70dec8-c0e3-4412-a89d-69120e2f4886)
+
 
 
 **MAINMENU**
