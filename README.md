@@ -69,7 +69,7 @@ The website is composed of the following main sections in the HTML files:<br>
 
 **ROOMS**
 
-![Screenshot 2024-08-16 200516](https://github.com/user-attachments/assets/979a19eb-e2b5-4a1d-8a22-c4a8f9bada9e)
+
 
 
 ![Screenshot 2024-08-16 200539](https://github.com/user-attachments/assets/f98be046-3b27-4968-be37-6abc4261bbc5)
