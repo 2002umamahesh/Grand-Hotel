@@ -16,20 +16,20 @@
 
 grand-hotel<br>
 │
-├── index.html     <br>     # Home page
-├── rooms.html     <br>     # Rooms page
-├── services.html    <br>   # Services page
-├── contact.html     <br>   # Contact page
+├── index.html          # Home page <br> 
+├── rooms.html         # Rooms page <br> 
+├── services.html      # Services page <br> 
+├── contact.html        # Contact page <br> 
 │
 ├── css<br>
-│   ├── style.css  <br>     # Main CSS file for styling
-│   └── responsive.css  <br># CSS file for responsive design
+│   ├── style.css      # Main CSS file for styling <br> 
+│   └── responsive.css  # CSS file for responsive design <br> 
 │
 └── images<br>
-    ├── hero.jpg  <br>      # Hero image for the home page
-    ├── room1.jpg   <br>    # Images for rooms
-    ├── room2.jpg<br>
-    └── ...     <br>        # Other images
+    ├── hero.jpg       # Hero image for the home page <br> 
+    ├── room1.jpg      # Images for rooms <br> 
+    ├── room2.jpg <br> 
+    └── ...           # Other images <br> 
 
 ## How to Run the Project
 
@@ -70,13 +70,15 @@ The website is composed of the following main sections in the HTML files:<br>
 **ROOMS**
 ![Screenshot 2024-08-16 200530](https://github.com/user-attachments/assets/d9aa88fc-b0cb-4fe4-8775-3f6ace70d358)
 
-![Screenshot 2024-08-16 200539](https://github.com/user-attachments/assets/15554012-bf5c-4011-b8bd-dcc753cc5cc5)
+![Screenshot 2024-08-16 200539](https://github.com/user-attachments/assets/f98be046-3b27-4968-be37-6abc4261bbc5)
+
 
 **CUSTOMERS**
 
 ![Screenshot 2024-08-16 200558](https://github.com/user-attachments/assets/79d13ddc-1419-4b48-bb7d-998f1c5d1a1c)
 
-![Screenshot 2024-08-16 200605](https://github.com/user-attachments/assets/ae4974b1-6701-4b6f-8982-4c8b398e0394)
+![Screenshot 2024-08-16 200558](https://github.com/user-attachments/assets/1e283e85-d5fd-4912-9ecd-b5e21fe214b7)
+
 
 **MAINMENU**
 
